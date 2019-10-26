@@ -12,6 +12,7 @@ sklearn 0.21.3
 
 # Result
 ![alt text](https://github.com/soarbear/stocks-lstm-keras/blob/master/stocks-letm-keras.jpg)
+
 Prediction seems to be somewhat delayed, because it is delayed by length_of_sequences from the beginning.
 
 # Japanese
