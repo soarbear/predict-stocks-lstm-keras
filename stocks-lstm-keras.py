@@ -1,4 +1,8 @@
+
 # -*- coding: utf-8 -*-
+# Brief: A Seq2Seq Model Implementation by keras Recurrent Neural Network LSTM.
+# Author: Tateo_YANAGI @soarcloud.com
+#
 import numpy
 import pandas
 import matplotlib.pyplot as plt
