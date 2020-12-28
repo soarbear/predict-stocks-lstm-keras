@@ -1,5 +1,5 @@
 # Description
-Use the deep learning recursive neural network keras RNN-LSTM to search for stocks that rise from the next day on multiple stocks.
+Use the deep learning recursive neural network keras RNN-LSTM to predict(search for) stocks that rise from the next day on multiple stocks.
 
 # Environment
 Google Colab CPU/GPU/TPU<br>
